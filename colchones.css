@@ -1,0 +1,46 @@
+#titulo{
+    background-color:#134f5c;
+    width: auto;
+    height: auto;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    border:3px solid  ;
+    border-color:#45818e;
+}
+#titulo2{
+    background-color:#134f5c;
+    width: 50%;
+    height: auto;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    margin: 0 auto; 
+    border:3px solid  ;
+    border-color:#45818e;
+    
+}
+
+#boton{
+    background-color: #134f5c;
+    border: none;
+}
+#prin{
+    width: 1140px;
+    margin-left:-10px;
+}
+.card-img-top:hover{
+    filter: drop-shadow(8px 8px 10px #134f5c);
+    border-radius: 50px;
+}
+body{
+    background-color: #cccccc ;
+    background-image: radial-gradient(#7b7b82 0.35000000000000003px, #cccccc 0.35000000000000003px);
+    background-size: 7px 7px;
+
+}
+.btn-secondary{
+   background-color: tomato;
+
+}
+.btn-secondary:hover{
+    background-color: brown;
+}
